@@ -22,6 +22,9 @@ For that purpose three input files, located in "InputFiles" folder, are required
 		10. number of exons
 		11. exon sizes
 		12. exon starts (in relation to transcript start)
+
+Example output:
+OverlappingGenePairs_Human_AdultTestis_5ppmCUTOFF.tsv is the example output file for human testis.
 		
 More TSS data:
 Additional Raw TSS data may be downloaded from DBTSS FTP server at ftp://ftp.hgc.jp/pub/hgc/db/dbtss/. Data for six mouse tissues - brain, heart, kidney, liver, spleen and thymus - were stored at http://rhesus.amu.edu.pl/ovrGenes/dbtss. 
